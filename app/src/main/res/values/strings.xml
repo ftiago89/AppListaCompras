@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Nossa Feira</string>
+    <string name="txt_new_list">Nova Lista</string>
+    <string name="txt_manage_lists">Gerenciar Listas</string>
+    <string name="txt_list_name">Nome da Lista</string>
+    <string name="cancel">Cancelar</string>
+    <string name="txt_add_list">Adicionar Lista</string>
+    <string name="name_validation_error">O nome da lista deve ser preenchido</string>
+    <string name="list_saved">Lista salva com sucesso</string>
+    <string name="shoppingLists_item">%1$s em %2$s</string>
+    <string name="itemList_description">%1$s R$:%2$.2f Qtd: %3$d</string>
+    <string name="shoppintList_deleted">Lista de compras removida com sucesso</string>
+    <string name="should_delete_list">Remover lista de compras?</string>
+    <string name="add_item">Adicionar item</string>
+    <string name="name">Nome</string>
+    <string name="price">Preço</string>
+    <string name="quantity">Quantidade</string>
+    <string name="save">Salvar</string>
+    <string name="name_mandatory">O nome do produto precisa ser informado</string>
+    <string name="should_delete_item">Remover item?</string>
+    <string name="item_edited">Item editado com sucesso</string>
+    <string name="item_edited_error">Erro ao tentar editar item</string>
+    <string name="menu_calc">Calcular Total</string>
+    <string name="total">Total: R$%1$.2f</string>
+    <string name="edit_item_price">%1$.2f</string>
+</resources>
